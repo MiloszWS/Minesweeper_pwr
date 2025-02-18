@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(273116)
+project(Saper)
 
 set(CMAKE_VERBOSE_MAKEFILE ON)
 set(CMAKE_CXX_STANDARD 14)
@@ -32,5 +32,5 @@ endif(WIN32)
 find_package(SFML 2 COMPONENTS graphics audio REQUIRED)
 
 
-add_executable(273116 main.cpp MinesweeperBoard.cpp MSBoardTextView.cpp MSTextController.h MSTextController.cpp MSBoardTextView.h MinesweeperBoard.h MSSFMLView.h MSSFMLView.cpp MSSFMLView.cpp MSSFMLController.h MSSFMLController.cpp MSSFMLController.h MSSFMLController.cpp)
-target_link_libraries(273116 sfml-graphics sfml-audio)
+add_executable(Saper main.cpp MinesweeperBoard.cpp MSBoardTextView.cpp MSTextController.h MSTextController.cpp MSBoardTextView.h MinesweeperBoard.h MSSFMLView.h MSSFMLView.cpp MSSFMLView.cpp MSSFMLController.h MSSFMLController.cpp MSSFMLController.h MSSFMLController.cpp)
+target_link_libraries(Saper sfml-graphics sfml-audio)

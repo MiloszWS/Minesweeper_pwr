@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: 273116
+# Project: Saper
 # Configurations: Debug
 # =============================================================================
 
@@ -41,79 +41,79 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = D$:/CLion/Projects/untitled/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 273116
+# Object build statements for EXECUTABLE target Saper
 
 
 #############################################
-# Order-only phony target for 273116
+# Order-only phony target for Saper
 
-build cmake_object_order_depends_target_273116: phony || CMakeFiles/273116.dir
+build cmake_object_order_depends_target_Saper: phony || CMakeFiles/Saper.dir
 
-build CMakeFiles/273116.dir/main.cpp.obj: CXX_COMPILER__273116_Debug D$:/CLion/Projects/untitled/main.cpp || cmake_object_order_depends_target_273116
+build CMakeFiles/Saper.dir/main.cpp.obj: CXX_COMPILER__Saper_Debug D$:/CLion/Projects/untitled/main.cpp || cmake_object_order_depends_target_Saper
   DEFINES = -DSFML_STATIC
-  DEP_FILE = CMakeFiles\273116.dir\main.cpp.obj.d
+  DEP_FILE = CMakeFiles\Saper.dir\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -std=gnu++14
   INCLUDES = -isystem C:/SFML-2.5.1/include
-  OBJECT_DIR = CMakeFiles\273116.dir
-  OBJECT_FILE_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
+  OBJECT_FILE_DIR = CMakeFiles\Saper.dir
 
-build CMakeFiles/273116.dir/MinesweeperBoard.cpp.obj: CXX_COMPILER__273116_Debug D$:/CLion/Projects/untitled/MinesweeperBoard.cpp || cmake_object_order_depends_target_273116
+build CMakeFiles/Saper.dir/MinesweeperBoard.cpp.obj: CXX_COMPILER__Saper_Debug D$:/CLion/Projects/untitled/MinesweeperBoard.cpp || cmake_object_order_depends_target_Saper
   DEFINES = -DSFML_STATIC
-  DEP_FILE = CMakeFiles\273116.dir\MinesweeperBoard.cpp.obj.d
+  DEP_FILE = CMakeFiles\Saper.dir\MinesweeperBoard.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -std=gnu++14
   INCLUDES = -isystem C:/SFML-2.5.1/include
-  OBJECT_DIR = CMakeFiles\273116.dir
-  OBJECT_FILE_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
+  OBJECT_FILE_DIR = CMakeFiles\Saper.dir
 
-build CMakeFiles/273116.dir/MSBoardTextView.cpp.obj: CXX_COMPILER__273116_Debug D$:/CLion/Projects/untitled/MSBoardTextView.cpp || cmake_object_order_depends_target_273116
+build CMakeFiles/Saper.dir/MSBoardTextView.cpp.obj: CXX_COMPILER__Saper_Debug D$:/CLion/Projects/untitled/MSBoardTextView.cpp || cmake_object_order_depends_target_Saper
   DEFINES = -DSFML_STATIC
-  DEP_FILE = CMakeFiles\273116.dir\MSBoardTextView.cpp.obj.d
+  DEP_FILE = CMakeFiles\Saper.dir\MSBoardTextView.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -std=gnu++14
   INCLUDES = -isystem C:/SFML-2.5.1/include
-  OBJECT_DIR = CMakeFiles\273116.dir
-  OBJECT_FILE_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
+  OBJECT_FILE_DIR = CMakeFiles\Saper.dir
 
-build CMakeFiles/273116.dir/MSTextController.cpp.obj: CXX_COMPILER__273116_Debug D$:/CLion/Projects/untitled/MSTextController.cpp || cmake_object_order_depends_target_273116
+build CMakeFiles/Saper.dir/MSTextController.cpp.obj: CXX_COMPILER__Saper_Debug D$:/CLion/Projects/untitled/MSTextController.cpp || cmake_object_order_depends_target_Saper
   DEFINES = -DSFML_STATIC
-  DEP_FILE = CMakeFiles\273116.dir\MSTextController.cpp.obj.d
+  DEP_FILE = CMakeFiles\Saper.dir\MSTextController.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -std=gnu++14
   INCLUDES = -isystem C:/SFML-2.5.1/include
-  OBJECT_DIR = CMakeFiles\273116.dir
-  OBJECT_FILE_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
+  OBJECT_FILE_DIR = CMakeFiles\Saper.dir
 
-build CMakeFiles/273116.dir/MSSFMLView.cpp.obj: CXX_COMPILER__273116_Debug D$:/CLion/Projects/untitled/MSSFMLView.cpp || cmake_object_order_depends_target_273116
+build CMakeFiles/Saper.dir/MSSFMLView.cpp.obj: CXX_COMPILER__Saper_Debug D$:/CLion/Projects/untitled/MSSFMLView.cpp || cmake_object_order_depends_target_Saper
   DEFINES = -DSFML_STATIC
-  DEP_FILE = CMakeFiles\273116.dir\MSSFMLView.cpp.obj.d
+  DEP_FILE = CMakeFiles\Saper.dir\MSSFMLView.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -std=gnu++14
   INCLUDES = -isystem C:/SFML-2.5.1/include
-  OBJECT_DIR = CMakeFiles\273116.dir
-  OBJECT_FILE_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
+  OBJECT_FILE_DIR = CMakeFiles\Saper.dir
 
-build CMakeFiles/273116.dir/MSSFMLController.cpp.obj: CXX_COMPILER__273116_Debug D$:/CLion/Projects/untitled/MSSFMLController.cpp || cmake_object_order_depends_target_273116
+build CMakeFiles/Saper.dir/MSSFMLController.cpp.obj: CXX_COMPILER__Saper_Debug D$:/CLion/Projects/untitled/MSSFMLController.cpp || cmake_object_order_depends_target_Saper
   DEFINES = -DSFML_STATIC
-  DEP_FILE = CMakeFiles\273116.dir\MSSFMLController.cpp.obj.d
+  DEP_FILE = CMakeFiles\Saper.dir\MSSFMLController.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -std=gnu++14
   INCLUDES = -isystem C:/SFML-2.5.1/include
-  OBJECT_DIR = CMakeFiles\273116.dir
-  OBJECT_FILE_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
+  OBJECT_FILE_DIR = CMakeFiles\Saper.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 273116
+# Link build statements for EXECUTABLE target Saper
 
 
 #############################################
-# Link the executable 273116.exe
+# Link the executable Saper.exe
 
-build 273116.exe: CXX_EXECUTABLE_LINKER__273116_Debug CMakeFiles/273116.dir/main.cpp.obj CMakeFiles/273116.dir/MinesweeperBoard.cpp.obj CMakeFiles/273116.dir/MSBoardTextView.cpp.obj CMakeFiles/273116.dir/MSTextController.cpp.obj CMakeFiles/273116.dir/MSSFMLView.cpp.obj CMakeFiles/273116.dir/MSSFMLController.cpp.obj | C$:/SFML-2.5.1/lib/libsfml-graphics-s-d.a C$:/SFML-2.5.1/lib/libsfml-audio-s-d.a C$:/SFML-2.5.1/lib/libsfml-window-s-d.a C$:/SFML-2.5.1/lib/libfreetype.a C$:/SFML-2.5.1/lib/libopenal32.a C$:/SFML-2.5.1/lib/libsfml-system-s-d.a C$:/SFML-2.5.1/lib/libvorbisfile.a C$:/SFML-2.5.1/lib/libvorbisenc.a C$:/SFML-2.5.1/lib/libvorbis.a C$:/SFML-2.5.1/lib/libogg.a C$:/SFML-2.5.1/lib/libFLAC.a
+build Saper.exe: CXX_EXECUTABLE_LINKER__Saper_Debug CMakeFiles/Saper.dir/main.cpp.obj CMakeFiles/Saper.dir/MinesweeperBoard.cpp.obj CMakeFiles/Saper.dir/MSBoardTextView.cpp.obj CMakeFiles/Saper.dir/MSTextController.cpp.obj CMakeFiles/Saper.dir/MSSFMLView.cpp.obj CMakeFiles/Saper.dir/MSSFMLController.cpp.obj | C$:/SFML-2.5.1/lib/libsfml-graphics-s-d.a C$:/SFML-2.5.1/lib/libsfml-audio-s-d.a C$:/SFML-2.5.1/lib/libsfml-window-s-d.a C$:/SFML-2.5.1/lib/libfreetype.a C$:/SFML-2.5.1/lib/libopenal32.a C$:/SFML-2.5.1/lib/libsfml-system-s-d.a C$:/SFML-2.5.1/lib/libvorbisfile.a C$:/SFML-2.5.1/lib/libvorbisenc.a C$:/SFML-2.5.1/lib/libvorbis.a C$:/SFML-2.5.1/lib/libogg.a C$:/SFML-2.5.1/lib/libFLAC.a
   FLAGS = -g
   LINK_LIBRARIES = C:/SFML-2.5.1/lib/libsfml-graphics-s-d.a  C:/SFML-2.5.1/lib/libsfml-audio-s-d.a  C:/SFML-2.5.1/lib/libsfml-window-s-d.a  -lgdi32  -lOpenGL32  C:/SFML-2.5.1/lib/libfreetype.a  C:/SFML-2.5.1/lib/libopenal32.a  C:/SFML-2.5.1/lib/libsfml-system-s-d.a  -lwinmm  C:/SFML-2.5.1/lib/libvorbisfile.a  C:/SFML-2.5.1/lib/libvorbisenc.a  C:/SFML-2.5.1/lib/libvorbis.a  C:/SFML-2.5.1/lib/libogg.a  C:/SFML-2.5.1/lib/libFLAC.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\273116.dir
+  OBJECT_DIR = CMakeFiles\Saper.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 273116.exe
-  TARGET_IMPLIB = lib273116.dll.a
-  TARGET_PDB = 273116.exe.dbg
+  TARGET_FILE = Saper.exe
+  TARGET_IMPLIB = libSaper.dll.a
+  TARGET_PDB = Saper.exe.dbg
 
 
 #############################################
@@ -141,7 +141,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build 273116: phony 273116.exe
+build Saper: phony Saper.exe
 
 # =============================================================================
 # Folder targets.
@@ -151,7 +151,7 @@ build 273116: phony 273116.exe
 #############################################
 # Folder: D:/CLion/Projects/untitled/cmake-build-debug
 
-build all: phony 273116.exe
+build all: phony Saper.exe
 
 # =============================================================================
 # Built-in targets

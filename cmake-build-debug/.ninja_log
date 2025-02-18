@@ -1,6 +1,6 @@
 # ninja log v5
 3	500	7030997621236676	CMakeFiles/273116.dir/main.cpp.obj	1a3edffdab872159
-0	158	7616152052403269	build.ninja	e9dca380c10b3422
+1	255	7616179591839393	build.ninja	e9dca380c10b3422
 21	794	7030992938902656	CMakeFiles/273116.dir/MSSFMLView.cpp.obj	5485c06c69cae57
 80	176	7004455311824899	untitled.exe	6baa0976c4ee0a3f
 17	409	7030992934944795	CMakeFiles/273116.dir/MSTextController.cpp.obj	13bc24f1574f7f60
@@ -9,4 +9,10 @@
 25	422	7030992935144835	CMakeFiles/273116.dir/MSBoardTextView.cpp.obj	fec10d43cfad3c26
 6	50	7030036194310217	CMakeFiles/273116.dir/jebac.cpp.obj	66d5730af605d88b
 13	678	7030992937742390	CMakeFiles/273116.dir/MSSFMLController.cpp.obj	c25784db29cd53cc
-1	255	7616152052403269	build.ninja	e9dca380c10b3422
+11	730	7616179727031988	CMakeFiles/Saper.dir/MSTextController.cpp.obj	b293ac4ebf69462
+5	732	7616179727052005	CMakeFiles/Saper.dir/MinesweeperBoard.cpp.obj	fc7a217917dd81a2
+8	733	7616179727041992	CMakeFiles/Saper.dir/MSBoardTextView.cpp.obj	c59f2c251e8272a3
+15	741	7616179727162018	CMakeFiles/Saper.dir/MSSFMLController.cpp.obj	ae9bcd3efe0202af
+1	747	7616179727222045	CMakeFiles/Saper.dir/main.cpp.obj	d984d2ed199e5954
+19	755	7616179727302125	CMakeFiles/Saper.dir/MSSFMLView.cpp.obj	c808d4e2e85ee571
+755	1498	7616179734679496	Saper.exe	4a8f38f7c6d2be88
